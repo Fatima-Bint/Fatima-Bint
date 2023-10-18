@@ -1,5 +1,7 @@
 ### Hi there 👋 welcome to my miniverse!
 
+I'm currenting participating in the Global Hack Week with Major League Hacking
+
 <!--
 **Fatima-Bint/Fatima-Bint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
