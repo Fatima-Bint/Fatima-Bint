@@ -1,6 +1,9 @@
 ### Hi there 👋 welcome to my miniverse!
 
-I'm currenting participating in the Global Hack Week with Major League Hacking
+![me6](https://github.com/Fatima-Bint/Fatima-Bint/assets/46058716/2a56b877-3e8e-46f4-a1e4-748d4e4acd1b)
+
+
+
 
 <!--
 **Fatima-Bint/Fatima-Bint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
